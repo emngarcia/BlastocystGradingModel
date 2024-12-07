@@ -1,0 +1,2 @@
+/Users/ElizabethMiriya/Documents/stanford/cs279/final_project/Garcia_Somani_CodeSubmission_CS279/Blastocyst_Dataset.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
